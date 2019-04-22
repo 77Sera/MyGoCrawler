@@ -1,2 +1,2 @@
 # MyGoCrawler
-learn golang by crawler
+learn golang by web crawler
