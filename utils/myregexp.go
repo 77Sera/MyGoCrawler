@@ -6,7 +6,7 @@ import (
 	"regexp"
 )
 
-func regTest() {
+func regest() {
 
 	// 以下都是做匹配
 
